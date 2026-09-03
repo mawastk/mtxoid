@@ -1,6 +1,6 @@
 ![Logo](https://github.com/mawastk/mtxoid/blob/main/image/benner.png?raw=true)
 Please note: This text has been translated from Japanese. You can also read the original readme in its original language.<br>
-日本語版はこちらです：[https://github.com/mawastk/mtxoid/main/README_jp.md](https://github.com/mawastk/mtxoid/blob/268e3d701e00476892edd0f691670e8b73d2cf98/README_jp.md)
+日本語版はこちらです：[https://github.com/mawastk/mtxoid/main/README_jp.md](https://github.com/mawastk/mtxoid/blob/e5c62ec7f9caf1394fb3a2ad3611d10577fe3def/README_jp.md)
 
 # Mtxoid
 MTX Converter for Android
