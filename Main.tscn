@@ -1,0 +1,327 @@
+[gd_scene format=3 uid="uid://cbrtryulh22l0"]
+
+[ext_resource type="Script" uid="uid://d4kfn8vchnivr" path="res://Main.gd" id="1"]
+[ext_resource type="FontFile" uid="uid://crgnrv6liw6t3" path="res://fonts/Smash_Hit.ttf" id="2"]
+[ext_resource type="Texture2D" uid="uid://bg2fd7y2nnj56" path="res://image/mtxblastchankakkohatena.png" id="3_r0du0"]
+
+[sub_resource type="FontFile" id="1"]
+fallbacks = Array[Font]([ExtResource("2")])
+cache/0/variation_coordinates = {}
+cache/0/face_index = 0
+cache/0/embolden = 0.0
+cache/0/transform = Transform2D(1, 0, 0, 1, 0, 0)
+cache/0/spacing_top = 0
+cache/0/spacing_bottom = 0
+cache/0/spacing_space = 0
+cache/0/spacing_glyph = 0
+cache/0/baseline_offset = 0.0
+cache/0/16/0/ascent = 0.0
+cache/0/16/0/descent = 0.0
+cache/0/16/0/underline_position = 0.0
+cache/0/16/0/underline_thickness = 0.0
+cache/0/16/0/scale = 1.0
+cache/0/17/0/ascent = 0.0
+cache/0/17/0/descent = 0.0
+cache/0/17/0/underline_position = 0.0
+cache/0/17/0/underline_thickness = 0.0
+cache/0/17/0/scale = 1.0
+cache/0/18/0/ascent = 0.0
+cache/0/18/0/descent = 0.0
+cache/0/18/0/underline_position = 0.0
+cache/0/18/0/underline_thickness = 0.0
+cache/0/18/0/scale = 1.0
+cache/0/19/0/ascent = 0.0
+cache/0/19/0/descent = 0.0
+cache/0/19/0/underline_position = 0.0
+cache/0/19/0/underline_thickness = 0.0
+cache/0/19/0/scale = 1.0
+cache/0/20/0/ascent = 0.0
+cache/0/20/0/descent = 0.0
+cache/0/20/0/underline_position = 0.0
+cache/0/20/0/underline_thickness = 0.0
+cache/0/20/0/scale = 1.0
+cache/0/21/0/ascent = 0.0
+cache/0/21/0/descent = 0.0
+cache/0/21/0/underline_position = 0.0
+cache/0/21/0/underline_thickness = 0.0
+cache/0/21/0/scale = 1.0
+cache/0/22/0/ascent = 0.0
+cache/0/22/0/descent = 0.0
+cache/0/22/0/underline_position = 0.0
+cache/0/22/0/underline_thickness = 0.0
+cache/0/22/0/scale = 1.0
+cache/0/23/0/ascent = 0.0
+cache/0/23/0/descent = 0.0
+cache/0/23/0/underline_position = 0.0
+cache/0/23/0/underline_thickness = 0.0
+cache/0/23/0/scale = 1.0
+cache/0/24/0/ascent = 0.0
+cache/0/24/0/descent = 0.0
+cache/0/24/0/underline_position = 0.0
+cache/0/24/0/underline_thickness = 0.0
+cache/0/24/0/scale = 1.0
+cache/0/25/0/ascent = 0.0
+cache/0/25/0/descent = 0.0
+cache/0/25/0/underline_position = 0.0
+cache/0/25/0/underline_thickness = 0.0
+cache/0/25/0/scale = 1.0
+cache/0/26/0/ascent = 0.0
+cache/0/26/0/descent = 0.0
+cache/0/26/0/underline_position = 0.0
+cache/0/26/0/underline_thickness = 0.0
+cache/0/26/0/scale = 1.0
+cache/0/27/0/ascent = 0.0
+cache/0/27/0/descent = 0.0
+cache/0/27/0/underline_position = 0.0
+cache/0/27/0/underline_thickness = 0.0
+cache/0/27/0/scale = 1.0
+cache/0/28/0/ascent = 0.0
+cache/0/28/0/descent = 0.0
+cache/0/28/0/underline_position = 0.0
+cache/0/28/0/underline_thickness = 0.0
+cache/0/28/0/scale = 1.0
+cache/0/29/0/ascent = 0.0
+cache/0/29/0/descent = 0.0
+cache/0/29/0/underline_position = 0.0
+cache/0/29/0/underline_thickness = 0.0
+cache/0/29/0/scale = 1.0
+cache/0/30/0/ascent = 0.0
+cache/0/30/0/descent = 0.0
+cache/0/30/0/underline_position = 0.0
+cache/0/30/0/underline_thickness = 0.0
+cache/0/30/0/scale = 1.0
+cache/0/31/0/ascent = 0.0
+cache/0/31/0/descent = 0.0
+cache/0/31/0/underline_position = 0.0
+cache/0/31/0/underline_thickness = 0.0
+cache/0/31/0/scale = 1.0
+cache/0/32/0/ascent = 0.0
+cache/0/32/0/descent = 0.0
+cache/0/32/0/underline_position = 0.0
+cache/0/32/0/underline_thickness = 0.0
+cache/0/32/0/scale = 1.0
+cache/0/33/0/ascent = 0.0
+cache/0/33/0/descent = 0.0
+cache/0/33/0/underline_position = 0.0
+cache/0/33/0/underline_thickness = 0.0
+cache/0/33/0/scale = 1.0
+cache/0/34/0/ascent = 0.0
+cache/0/34/0/descent = 0.0
+cache/0/34/0/underline_position = 0.0
+cache/0/34/0/underline_thickness = 0.0
+cache/0/34/0/scale = 1.0
+cache/0/35/0/ascent = 0.0
+cache/0/35/0/descent = 0.0
+cache/0/35/0/underline_position = 0.0
+cache/0/35/0/underline_thickness = 0.0
+cache/0/35/0/scale = 1.0
+cache/0/36/0/ascent = 0.0
+cache/0/36/0/descent = 0.0
+cache/0/36/0/underline_position = 0.0
+cache/0/36/0/underline_thickness = 0.0
+cache/0/36/0/scale = 1.0
+
+[sub_resource type="LabelSettings" id="LabelSettings_rk2xc"]
+font_size = 36
+font_color = Color(0.6378432, 0.6378432, 0.63784313, 1)
+
+[sub_resource type="FontFile" id="2"]
+fallbacks = Array[Font]([ExtResource("2")])
+cache/0/variation_coordinates = {}
+cache/0/face_index = 0
+cache/0/embolden = 0.0
+cache/0/transform = Transform2D(1, 0, 0, 1, 0, 0)
+cache/0/spacing_top = 0
+cache/0/spacing_bottom = 0
+cache/0/spacing_space = 0
+cache/0/spacing_glyph = 0
+cache/0/baseline_offset = 0.0
+cache/0/16/0/ascent = 0.0
+cache/0/16/0/descent = 0.0
+cache/0/16/0/underline_position = 0.0
+cache/0/16/0/underline_thickness = 0.0
+cache/0/16/0/scale = 1.0
+cache/0/17/0/ascent = 0.0
+cache/0/17/0/descent = 0.0
+cache/0/17/0/underline_position = 0.0
+cache/0/17/0/underline_thickness = 0.0
+cache/0/17/0/scale = 1.0
+cache/0/18/0/ascent = 0.0
+cache/0/18/0/descent = 0.0
+cache/0/18/0/underline_position = 0.0
+cache/0/18/0/underline_thickness = 0.0
+cache/0/18/0/scale = 1.0
+cache/0/19/0/ascent = 0.0
+cache/0/19/0/descent = 0.0
+cache/0/19/0/underline_position = 0.0
+cache/0/19/0/underline_thickness = 0.0
+cache/0/19/0/scale = 1.0
+cache/0/20/0/ascent = 0.0
+cache/0/20/0/descent = 0.0
+cache/0/20/0/underline_position = 0.0
+cache/0/20/0/underline_thickness = 0.0
+cache/0/20/0/scale = 1.0
+cache/0/21/0/ascent = 0.0
+cache/0/21/0/descent = 0.0
+cache/0/21/0/underline_position = 0.0
+cache/0/21/0/underline_thickness = 0.0
+cache/0/21/0/scale = 1.0
+cache/0/22/0/ascent = 0.0
+cache/0/22/0/descent = 0.0
+cache/0/22/0/underline_position = 0.0
+cache/0/22/0/underline_thickness = 0.0
+cache/0/22/0/scale = 1.0
+
+[sub_resource type="LabelSettings" id="LabelSettings_rokfw"]
+line_spacing = 0.0
+font_size = 22
+font_color = Color(0.6761906, 0.6761906, 0.67619056, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_4kxuq"]
+bg_color = Color(0.0715005, 0.07150053, 0.07150047, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_mti6b"]
+bg_color = Color(0.054860987, 0.054861017, 0.054860957, 1)
+
+[node name="Main" type="Node2D" unique_id=1935358254]
+script = ExtResource("1")
+
+[node name="BG" type="ColorRect" parent="." unique_id=1953717835]
+offset_right = 544.0
+offset_bottom = 960.0
+color = Color(0.0980392, 0.0941176, 0.0941176, 1)
+
+[node name="Preview" type="Node2D" parent="." unique_id=741365022]
+
+[node name="Preview" type="ColorRect" parent="Preview" unique_id=1338954173]
+offset_right = 544.0
+offset_bottom = 64.0
+color = Color(0.0666667, 0.0666667, 0.0666667, 1)
+
+[node name="Preview4" type="ColorRect" parent="Preview" unique_id=373001548]
+offset_right = 544.0
+offset_bottom = 64.0
+color = Color(0.0666667, 0.0666667, 0.0666667, 1)
+
+[node name="Preview3" type="ColorRect" parent="Preview" unique_id=1880305130]
+offset_right = 544.0
+offset_bottom = 256.0
+color = Color(0.0666667, 0.0666667, 0.0666667, 1)
+
+[node name="Preview2" type="ColorRect" parent="Preview" unique_id=796208820]
+offset_top = 64.0
+offset_right = 544.0
+offset_bottom = 224.0
+color = Color(0.0313726, 0.0313726, 0.0313726, 1)
+
+[node name="PreviewText" type="Label" parent="Preview" unique_id=964597882]
+offset_left = 15.0
+offset_top = 19.0
+offset_right = 536.0
+offset_bottom = 56.0
+theme_override_colors/font_color = Color(0.690196, 0.690196, 0.690196, 1)
+theme_override_fonts/font = SubResource("1")
+text = "Preview"
+label_settings = SubResource("LabelSettings_rk2xc")
+vertical_alignment = 1
+
+[node name="PreviewText2" type="Label" parent="Preview" unique_id=1945284451]
+offset_top = 235.0
+offset_right = 272.0
+offset_bottom = 257.0
+theme_override_colors/font_color = Color(0.690196, 0.690196, 0.690196, 1)
+theme_override_fonts/font = SubResource("2")
+text = "first"
+label_settings = SubResource("LabelSettings_rokfw")
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="PreviewText3" type="Label" parent="Preview" unique_id=1701561999]
+offset_left = 272.0
+offset_top = 234.0
+offset_right = 544.0
+offset_bottom = 257.0
+theme_override_colors/font_color = Color(0.690196, 0.690196, 0.690196, 1)
+theme_override_fonts/font = SubResource("2")
+text = "second"
+label_settings = SubResource("LabelSettings_rokfw")
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="PreviewFirst" type="TextureRect" parent="Preview" unique_id=70363508]
+offset_top = 64.0
+offset_right = 272.0
+offset_bottom = 224.0
+expand_mode = 1
+stretch_mode = 5
+
+[node name="PreviewSecond" type="TextureRect" parent="Preview" unique_id=36871626]
+offset_left = 272.0
+offset_top = 64.0
+offset_right = 544.0
+offset_bottom = 224.0
+expand_mode = 1
+stretch_mode = 5
+
+[node name="File" type="Node2D" parent="." unique_id=1086797576]
+
+[node name="Preview5" type="ColorRect" parent="File" unique_id=42701045]
+offset_top = 320.0
+offset_right = 544.0
+offset_bottom = 576.0
+color = Color(0.0666667, 0.0666667, 0.0666667, 1)
+
+[node name="Preview6" type="ColorRect" parent="File" unique_id=1536677261]
+offset_top = 376.0
+offset_right = 544.0
+offset_bottom = 960.0
+color = Color(0.0313726, 0.0313726, 0.0313726, 1)
+
+[node name="PreviewText4" type="Label" parent="File" unique_id=130822489]
+offset_left = 16.0
+offset_top = 336.0
+offset_right = 537.0
+offset_bottom = 373.0
+theme_override_colors/font_color = Color(0.690196, 0.690196, 0.690196, 1)
+theme_override_fonts/font = SubResource("1")
+text = "file control"
+label_settings = SubResource("LabelSettings_rk2xc")
+vertical_alignment = 1
+
+[node name="Mtxtopng" type="Button" parent="File" unique_id=588020170]
+offset_left = 8.0
+offset_top = 384.0
+offset_right = 248.0
+offset_bottom = 504.0
+focus_mode = 0
+theme_override_colors/font_color = Color(0.5411765, 0.5411765, 0.5411765, 1)
+theme_override_constants/line_spacing = -9
+theme_override_fonts/font = ExtResource("2")
+theme_override_font_sizes/font_size = 34
+theme_override_styles/normal = SubResource("StyleBoxFlat_4kxuq")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_mti6b")
+text = "
+mtx to png"
+
+[node name="Pngtomtx" type="Button" parent="File" unique_id=636754044]
+offset_left = 8.0
+offset_top = 512.0
+offset_right = 248.0
+offset_bottom = 632.0
+focus_mode = 0
+theme_override_colors/font_color = Color(0.5411765, 0.5411765, 0.5411765, 1)
+theme_override_constants/line_spacing = -9
+theme_override_fonts/font = ExtResource("2")
+theme_override_font_sizes/font_size = 34
+theme_override_styles/normal = SubResource("StyleBoxFlat_4kxuq")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_mti6b")
+text = "
+png to mtx"
+
+[node name="Mtxblastchankakkohatena" type="Sprite2D" parent="." unique_id=1846004402]
+position = Vector2(328, 831.99994)
+scale = Vector2(0.44, 0.44)
+texture = ExtResource("3_r0du0")
+
+[connection signal="button_down" from="File/Mtxtopng" to="." method="_on_mtxtopng_button_down"]
+[connection signal="button_down" from="File/Pngtomtx" to="." method="_on_pngtomtx_button_down"]

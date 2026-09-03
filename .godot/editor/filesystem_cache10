@@ -1,0 +1,15 @@
+9cad1ddce9e5a63143ba340c9520626b
+::res://::1788393975
+default_env.tres::Environment::8449562325390846263::1788393975::0::1::::<><><>0<>0<><>::
+export_presets.cfg::TextFile::-1::1788393691::0::1::::<><><>0<>0<><>::
+Main.gd::GDScript::9215710860219629651::1788393436::0::1::::<>Node2D<><>0<>0<><>::
+Main.tscn::PackedScene::4879309906168925347::1788393607::0::1::::<><><>0<>0<><>::uid://d4kfn8vchnivr::::res://Main.gd<>uid://crgnrv6liw6t3::::res://fonts/Smash_Hit.ttf<>uid://bg2fd7y2nnj56::::res://image/mtxblastchankakkohatena.png
+::res://android/::1788393784
+::res://fonts/::1788385745
+Smash_Hit.ttf::FontFile::5979258806550130030::1788381105::1788385745::1::::<><><>0<>0<>126c49ce4768fdf3886470cad83fb845<>res://.godot/imported/Smash_Hit.ttf-420f0c3a6d620e3813a901b362b8f8ae.fontdata::
+::res://image/::1788392995
+mtxblastchankakkohatena.png::CompressedTexture2D::2863602606293618135::1788391640::1788391680::1::::<><><>0<>0<>aaeac77795a99e6e87029da62aedcea5<>res://.godot/imported/mtxblastchankakkohatena.png-799c63616d88097d60cb470305890269.ctex::
+test.png::CompressedTexture2D::688667099235163958::1788386478::1788386494::1::::<><><>0<>0<>6bf4522d4dd57dc1a37d0ef3f9a20a78<>res://.godot/imported/test.png-7c10242f574ba0bd990bdc1d4a13d159.ctex::
+::res://image/build/::1788393974
+Icon.png::CompressedTexture2D::1159896972467376640::1788392997::1788393000::1::::<><><>0<>0<>33cda09fc53be8e30bd9008d00e40f01<>res://.godot/imported/Icon.png-d2684f0513228347ee76dc2810898e7a.ctex::
+IconAndroid.png::CompressedTexture2D::2404549733048228249::1788394083::1788394086::1::::<><><>0<>0<>383ae8a5101e176e3338d138d215d42e<>res://.godot/imported/IconAndroid.png-a5a2ea7c0248b5070ae530c684b20902.ctex::
