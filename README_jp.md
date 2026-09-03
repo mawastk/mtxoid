@@ -6,7 +6,7 @@ Androidで動作するMTX変換ツール
 ![Screenshot](https://github.com/mawastk/mtxoid/blob/main/image/screenshot.png?raw=true)
 
 # インストール方法
-Mtxconvは単一のapkで動作します、そのままインストールすることが可能です
+Mtxoidは単一のapkで動作します、そのままインストールすることが可能です
 
 | 制限 | 対応バージョン |
 |:-----------|:------------:|
